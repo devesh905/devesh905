@@ -40,9 +40,10 @@
 
 ### 📚 Currently Learning:
 
-- **Microsoft Fabric**
+- **Machine Learning**
 - **Deep Learning**
 - **NLP**
+- **Microsoft Fabric**
 
 ---
 
