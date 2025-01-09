@@ -62,6 +62,4 @@
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=devesh905&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=devesh905&label=Profile%20Views&color=1&icon=0&pretty=false" />
-</a>
+
