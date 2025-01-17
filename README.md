@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="800" height="400" />
 </p>
 
-# 👋 Hi, I'm Devesh Kumar Upadhyay
+# Hi, I'm Devesh Kumar Upadhyay
 
 ### Fresher Data Analyst | Python, SQL, Power BI, Excel, Machine Learning | C++, C#, and more...
 
