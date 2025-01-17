@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="800" height="400" />
+</p>
+
 # 👋 Hi, I'm Devesh Kumar Upadhyay
 
 ### Fresher Data Analyst | Python, SQL, Power BI, Excel, Machine Learning | C++, C#, and more...
@@ -15,10 +19,6 @@
 💬 Ask me about SQL, PowerBi, Dashboard, and Analysis.
 
 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/devesh-kumar-upadhyay) , [GitHub](https://github.com/devesh905) , [Email](mailto:deveshkumarupadhayay@gmail.com)
-
-<p align="left">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300" />
-</p>
 
 ---
 
