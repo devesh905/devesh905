@@ -34,7 +34,6 @@
 - **Machine Learning**
 - **Deep Learning**
 - **NLP**
-- **Microsoft Fabric**
 
 ---
 
