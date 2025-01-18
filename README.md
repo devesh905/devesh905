@@ -7,15 +7,6 @@
 ### Fresher Data Analyst | Python, SQL, Power BI, Excel, Machine Learning | C++, C#, and more...
 
 ---
-
-😎 I am a "Data Analyst" Fresher.
-
-⭐ Passionate About "Data science and analysis".
-
-🔭 I’m currently working on Portfolio Projects.
-
-👯 I’m looking to collaborate on "Data Analysis Projects".
-
 💬 Ask me about SQL, PowerBi, Dashboard, and Analysis.
 
 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/devesh-kumar-upadhyay) , [GitHub](https://github.com/devesh905) , [Email](mailto:deveshkumarupadhayay@gmail.com)
