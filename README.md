@@ -39,7 +39,7 @@
 
 ### 🌱 Goals:
 
-- Enhance expertise in **Full Stack Web Developer ASP.NET**.
+- Enhance expertise in **Full Stack Web Developer Using ASP.NET Core**.
   
 ---
 
