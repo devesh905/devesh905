@@ -31,9 +31,7 @@
 
 ### 📚 Currently Learning:
 
-- **Machine Learning**
-- **Deep Learning**
-- **NLP**
+- **ASP.NET Core MVC API**
 
 ---
 
