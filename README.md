@@ -4,10 +4,10 @@
 
 # Hi, I'm Devesh Kumar Upadhyay
 
-### C#, ASP.NET, Python, SQL, Power BI, Excel, Machine Learning & more...
+### C#, ASP.NET Core, Python, SQL, Power BI, Excel, Machine Learning & more...
 
 ---
-💬 Ask me about C#, ASP.NET, SQL, PowerBi, Dashboarding, and Analysis.
+💬 Ask me about C#, ASP.NET Core, SQL, PowerBi, Dashboarding, and Analysis.
 
 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/devesh-kumar-upadhyay) , [GitHub](https://github.com/devesh905) , [Email](mailto:deveshkumarupadhayay@gmail.com)
 
@@ -25,7 +25,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 - **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-- **Testing & Automation**: Selenium (C#)
+- **Testing & Automation**: Selenium (C#), Appium(C#).
 
 ---
 
@@ -39,8 +39,7 @@
 
 ### 🌱 Goals:
 
-- Enhance expertise in **machine learning algorithms**.
-- Continue contributing to open-source projects and honing my data analysis skills.
+- Enhance expertise in **Full Stack Web Developer ASP.NET**.
   
 ---
 
