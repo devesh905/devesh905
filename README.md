@@ -4,10 +4,10 @@
 
 # Hi, I'm Devesh Kumar Upadhyay
 
-### Fresher Data Analyst | Python, SQL, Power BI, Excel, Machine Learning | C++, C#, and more...
+### C#, ASP.NET, Python, SQL, Power BI, Excel, Machine Learning & more...
 
 ---
-💬 Ask me about SQL, PowerBi, Dashboard, and Analysis.
+💬 Ask me about C#, ASP.NET, SQL, PowerBi, Dashboarding, and Analysis.
 
 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/devesh-kumar-upadhyay) , [GitHub](https://github.com/devesh905) , [Email](mailto:deveshkumarupadhayay@gmail.com)
 
