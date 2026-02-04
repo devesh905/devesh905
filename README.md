@@ -26,13 +26,6 @@
 
 - **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 - **Testing & Automation**: Selenium (C#), Appium(C#).
-
----
-
-### 📚 Currently Learning:
-
-- **ASP.NET Core MVC API**
-
 ---
 
 ### 🌱 Goals:
